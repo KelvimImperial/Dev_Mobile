@@ -1,5 +1,5 @@
 
-<img src="https://blog.codemagic.io/uploads/covers/CM_Cross-platform-dev_FB.png"width="900">
+<img src="https://blog.codemagic.io/uploads/covers/CM_Cross-platform-dev_FB.png"width="400">
 
 Olá chamo-me Kelvim Imperial Sou Desenvolvidor Mobile Usando Dart/Flutter e Programador Python. Técnico em informática por formação, permaneço estudante porque amo . Estou sempre buscando melhorar meus conhecimentos em Dart/Flutter e Python/Django para ter mais diversidade de conhecimento a fim de propor melhores soluções para os desafios que encontro como FullStack Mobile.
 
@@ -7,18 +7,13 @@ Olá chamo-me Kelvim Imperial Sou Desenvolvidor Mobile Usando Dart/Flutter e Pro
 
 # Projetos:
 
-- Data Science - Análise De Doenças Cardiovasculares(artigo aqui no linkedim):Codigo:https://bityli.com/c5sMT9
+- UI App - Donut : https://github.com/KelvimImperial/UI-Donut
 
-- Data Science-Análise De Suicídios Brasil -https://bityli.com/TBkT7i
+- UI App - Chat Message :https://github.com/KelvimImperial/ChatMensagem
 
-- Data Science-Análise De Suicídios Portugal-https://bityli.com/pnea5v
+- UI App - Chat Clone :https://github.com/KelvimImperial/chat-clone
 
-- Ciencia De Dados - Detecção de Fraude em Cartões de Crédito-https://bityli.com/EJzUFM
+- UI App - TicToc Clone :https://github.com/KelvimImperial/TikTok-clone
 
-- Titanic-Ciencia De Dados-https://bityli.com/UxhJYJ
+- UI App - Coffe Clone :https://github.com/KelvimImperial/CoffeUI
  
-- Análise Exploratoria-Covid em Angola-https://bityli.com/UTi45u
-- Ciencia De Dados-Agronegocio -https://bityli.com/uiJLhT
-- Avaliação de Risco de Crédito Nubank- https://bityli.com/wMlHfK
-- Machine Learning para a Detecção do Câncer de Mama- https://bityli.com/KOeDQR
-- Ciencia De Dados - Detectando Fraudes Em Transferências Bancárias- https://bityli.com/RClsUg
