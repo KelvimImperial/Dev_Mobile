@@ -1,5 +1,5 @@
 
-<img src="https://blog.codemagic.io/uploads/covers/CM_Cross-platform-dev_FB.png"width="400">
+<img src="https://blog.codemagic.io/uploads/covers/CM_Cross-platform-dev_FB.png">
 
 Olá chamo-me Kelvim Imperial Sou Desenvolvidor Mobile Usando Dart/Flutter e Programador Python. Técnico em informática por formação, permaneço estudante porque amo . Estou sempre buscando melhorar meus conhecimentos em Dart/Flutter e Python/Django para ter mais diversidade de conhecimento a fim de propor melhores soluções para os desafios que encontro como FullStack Mobile.
 
